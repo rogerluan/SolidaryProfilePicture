@@ -28,7 +28,7 @@ Facebook provides us the filters that they want us to use, but it's not that str
 So, that's exactly what this app does: create the profile pictures with a customized filter, easy as 1 2 3.
 
 ##Learned Skills
-I used to project mainly to learn some technical concepts myself. So far I've learned only 2 of them, but I intend to learn a few more as I walk along the road map.
+I built the project mainly to learn some technical concepts myself. So far I've learned only 2 of them, but I intend to learn a few more as I walk along the road map.
 
 So far:
 
