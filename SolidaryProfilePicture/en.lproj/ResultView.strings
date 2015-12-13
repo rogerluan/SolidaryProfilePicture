@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "Congratulations!"; ObjectID = "2PQ-dE-44J"; */
+"2PQ-dE-44J.text" = "Congratulations!";
+
+/* Class = "UIButton"; normalTitle = "Export"; ObjectID = "7nE-oV-ZfM"; */
+"7nE-oV-ZfM.normalTitle" = "Export";
+
+/* Class = "UILabel"; text = "Here's your new profile picture!"; ObjectID = "8tg-og-HW2"; */
+"8tg-og-HW2.text" = "Here's your new profile picture!";
+
+/* Class = "UIButton"; normalTitle = "Save Photo"; ObjectID = "DGx-Rm-C7w"; */
+"DGx-Rm-C7w.normalTitle" = "Save Photo";
