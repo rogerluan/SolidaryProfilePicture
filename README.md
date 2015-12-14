@@ -1,8 +1,8 @@
 <H1 align ="center">Solidary Profile Picture</H1>
 
 <p align="center">
-  <img src="AppIcon.png" alt="Icon"/>
-</p>
+  <a href="http://appstore.com/solidaryprofilepicture"><img src="AppIcon.png" alt="Icon"/></a>
+</p></url>
 
 
 ##App Store Description
